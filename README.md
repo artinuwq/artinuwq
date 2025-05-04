@@ -19,7 +19,7 @@
 ---
 
 ### 📈 GitHub Статистика
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=artinuwqМ&show_icons=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=artinuwq&show_icons=true&theme=github_dark)
 
 ---
 
